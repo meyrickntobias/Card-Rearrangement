@@ -5,7 +5,8 @@ This was an assignment for COSC241 at the University of Otago - Programming and 
 The problem was to create a simulation of dealing a pack of cards, of size n, in rows of length r in different ways - from top to bottom or bottom to top, and left to right or right to left. So each row would contain n/j cards, represented as integers. The solution was to be given as Java, and the program can be run at the command line after compiling as:
 
 java week11/CP n r
-  where:
+  
+where:
 n = number of cards
 r = length of row
 
